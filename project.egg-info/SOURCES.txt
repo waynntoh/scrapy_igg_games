@@ -1,0 +1,13 @@
+setup.py
+igg_games/__init__.py
+igg_games/items.py
+igg_games/middlewares.py
+igg_games/pipelines.py
+igg_games/settings.py
+igg_games/spiders/__init__.py
+igg_games/spiders/igg_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
